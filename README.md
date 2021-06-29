@@ -1,11 +1,17 @@
 # Recipe-aap
 This ios aap contain the term table view. 
-this project is given by vnsgu
-this aap have the recipe of some favorite food
+
+This project is given by vnsgu
+
+This aap have the recipe of some favorite food
+
 Requirements
+
 iOS 14.0 and above
 Xcode 11.0 and above
+
 Elements
+
 UILabel
 UITextView
 UIButton
